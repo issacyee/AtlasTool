@@ -14,24 +14,40 @@
 ### 创建临时资源文件
 
 1. 在项目内任意位置创建一个AtlasTextureTool类型的资源文件
+
    ![](image/image-1.png)
+
    ![](image/image.png)
+
 2. 点击临时资源文件
 3. 设置png保存目录
+
    ![](image/image-2.png)
+
 4. 将需要裁剪的精灵表图片拖入Atlas中
+
    ![](image/image-3.png)
 
 ### 设置临时资源文件
 
 1. 点击编辑区域、选择自动裁剪、选择需要处理的图块
+
    ![](image/image-4.png)
+
    ![](image/image-5.png)
+
 2. 点击Refresh刷新预览效果
+
    ![](image/image-6.png)
+
 3. 进行旋转处理
+
    ![](image/image-7.png)
+
 4. 点击Save PNG将图块保存为png
+
    ![](image/image-8.png)
+
 5. 打开保存目录查看效果
+
    ![](image/image-9.png)
